@@ -21,7 +21,11 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>15 year old who likes exotic fruit</p>
+        <p>
+          Hey! I'm Jade, a high school programmer living in Chicago. 
+          In my free time, I love coding <a href="https://shinder.lilyfj26.repl.co" target="_blank">wacky projects</a>, eating exotic fruit, and posting <a href="https://www.tiktok.com/@eyelandstan" target="_blank">TikToks</a>. 
+          You can reach me <a href="mailto:jadecuereepark@gmail.com" target="_blank">here</a>. 📩
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
