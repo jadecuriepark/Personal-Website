@@ -15,3 +15,4 @@ So, present day. I'll cut most of the gobbledygook to you and say that in the en
 
 **UPDATE 09/25/2022:** Through learning how to code this very website you're reading, I finally *kinda* figured out GitHub. Well, just enough so I can store my edits on the website. My skyscraper is still naked-looking.
 
+© 2022 Jade Park

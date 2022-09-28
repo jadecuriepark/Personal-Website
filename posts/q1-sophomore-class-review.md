@@ -22,3 +22,5 @@ For some context, the classes I'm taking this year are much more rigorous than l
 - Oh boy. It's time for **AP Chemistry (real)**. Honestly, I think I'm at fault for having some questionable study habits (ok, I procrastinate a lot) but NO ONE could have prepared me for the workload the class is. From a student who's never taken a single Chemistry class in their life, this was an exponential leap that I have to look in the mirror everyday to convince myself again why I took the class. Sure, my teacher is wonderful and my classmates are there to share my woes, but WOW. Just wow. I really hope I'll survive to see the end of the school year.
 
 Wish me luck :)
+
+© 2022 Jade Park

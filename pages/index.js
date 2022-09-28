@@ -43,6 +43,9 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+        <p>© 2022 Jade Park</p>
+      </section>
     </Layout>
   );
 }
